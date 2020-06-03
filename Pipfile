@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+odl = {editable = true,extras = ["testing"],git = "https://github.com/odlgroup/odl",ref = "2320e398bcbb96cdf548d0f08b177a54d8ab7e7e"}
+cvxopt = "*"
+cvxpy = "*"
+tk = "*"
+h5py = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
