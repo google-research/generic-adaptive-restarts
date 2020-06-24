@@ -1,7 +1,7 @@
 # Instructions
 
 This code is a supplement for "A generic adaptive restart scheme with
-applications to saddle point algorithms".
+applications to saddle point algorithms". [arXiv 2006.08484](https://arxiv.org/abs/2006.08484)
 
 ## One-time setup
 
